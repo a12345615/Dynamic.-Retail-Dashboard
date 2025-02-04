@@ -3,11 +3,11 @@ The Dynamic Retail Dashboard is an interactive and data-driven tool built in Exc
 
 # Dynamic Excel Dashboard Repository
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains a **dynamic Excel dashboard** designed to analyze and visualize sales, returns, and regional data. The dashboard provides insightful metrics and interactive elements to assist in decision-making.
 
-## 📂 Datasets Used
+##  Datasets Used
 
 ### 1. Orders Table
 
@@ -48,7 +48,7 @@ Contains details about sales representatives and their respective regions.
 | Matt Collister    | West    |
 | Deborah Brumfield | Africa  |
 
-## 🔍 Problem Statements Solved with Steps
+##  Problem Statements Solved with Steps
 
 ### 1. Key Performance Indicators (KPIs)
 
@@ -77,6 +77,8 @@ Contains details about sales representatives and their respective regions.
 - Add Sales and Profit as values.
 - Create a Line Chart to display trends.
 - Apply slicers for filtering by category, market, or region.
+- ![image](https://github.com/user-attachments/assets/b6520cf0-8697-4a8a-9a5e-fee9d8b6c609)
+
 
 ### 3. Category-Wise Profit
 
@@ -88,6 +90,9 @@ Contains details about sales representatives and their respective regions.
 - Sort the table in descending order of Profit.
 - Create a Bar Chart.
 - Add slicers for interactivity.
+- ![image](https://github.com/user-attachments/assets/25b98465-a03c-4a7b-8832-6d88441e9f42)
+![image](https://github.com/user-attachments/assets/72886a77-c133-4139-94ff-cbad0644767a)
+
 
 ### 4. Segment-Wise Sales Share (%)
 
@@ -99,6 +104,8 @@ Contains details about sales representatives and their respective regions.
 - Calculate percentage share using `=Sales / Total Sales * 100`.
 - Create a Pie Chart or Donut Chart.
 - Add dynamic labels.
+- ![image](https://github.com/user-attachments/assets/8a252a56-1469-420b-9e71-6ce32e0d8407)
+
 
 ### 5. Sales by Country
 
@@ -109,6 +116,8 @@ Contains details about sales representatives and their respective regions.
 - Create a Pivot Table with Country as rows and Sales as values.
 - Sort the table in descending order of Sales.
 - Use conditional formatting or a Heatmap to highlight top-performing countries.
+- ![image](https://github.com/user-attachments/assets/ce09c824-31bb-4f17-b538-09d38f0ced2b)
+
 
 ### 6. Top 5 Subcategories
 
@@ -120,16 +129,20 @@ Contains details about sales representatives and their respective regions.
 - Sort the table in descending order of Sales.
 - Filter to display the top 5 Sub-Categories.
 - Use a Column Chart to visualize results.
+- ![image](https://github.com/user-attachments/assets/5aac1def-0cbf-4ecd-9c81-a31f3a8ce9ba)
 
-## 🚀 Dynamic Features
+
+##  Dynamic Features
 
 The dashboard includes:
 
 - **Dynamic Charts:** Updates in real-time based on slicer inputs.
 - **Power Query Integration:** Automates data cleaning and transformation.
 - **KPI Table:** Highlights critical metrics at a glance.
+- ![image](https://github.com/user-attachments/assets/db87e472-b1d0-4207-8dc2-37865c30f991)
 
-## 📌 Next Steps for Extension
+
+##  Next Steps for Extension
 
 Additional insights to enhance the dashboard:
 
@@ -138,20 +151,17 @@ Additional insights to enhance the dashboard:
 - **Market Analysis:** Compare performance across different markets.
 - **Product Analysis:** Evaluate individual product contributions.
 
-## 🎯 Significance
+##  Significance
 
 This dashboard empowers retail businesses to:
 
 - Track performance through KPIs.
 - Understand category, segment, and geographic trends.
 - Make data-driven decisions to optimize operations.
+- ![image](https://github.com/user-attachments/assets/af621c91-2852-42a0-9027-5a02e2c66d59)
 
-## 📸 Visuals
 
-This repository includes:
 
-- **Visual examples** for each solved problem statement.
-- **Snapshots of the final dashboard** with all components.
 
-##
+
 
